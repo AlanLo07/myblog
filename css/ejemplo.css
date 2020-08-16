@@ -30,6 +30,7 @@ body{
 
 #post{
 	padding: 1;
+	color: #541298;
 }
 
 #titulo #miniLinea{
@@ -37,4 +38,10 @@ body{
 	padding: 1em 0 0 0;
 	font-weight: ital;
 	font-size: 1.5em;
+}
+
+#footer{
+	background: #627586;
+	color: #f5f9fa;
+	padding:.5em;
 }
