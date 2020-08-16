@@ -38,7 +38,7 @@ body{
 #post{
 	padding: 1;
 	font-size: 35px;
-	color: #fff;697a3;
+	color: 697a3;
 	background: #1245a3;
 }
 
@@ -47,4 +47,10 @@ body{
 	padding: 1em 0 0 0;
 	font-weight: ital;
 	font-size: 1.5em;
+}
+
+#footer{
+	background: #627586;
+	color: #f5f9fa;
+	padding:.5em;
 }
